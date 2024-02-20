@@ -1,0 +1,8 @@
+bool x = false
+
+if x == true 
+    print true
+
+else
+    print false
+

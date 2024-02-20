@@ -1,0 +1,5 @@
+if x == 5:
+    print("value of x is 5")
+else:
+    print("value of x is not 5")
+

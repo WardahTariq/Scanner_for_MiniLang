@@ -1,0 +1,4 @@
+// comment
+a = 4
+b = true
+print a * b

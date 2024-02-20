@@ -1,0 +1,5 @@
+x = 2 + 3
+y = 10
+x = y - x
+print x
+print y
